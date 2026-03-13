@@ -1,0 +1,8 @@
+Extracted Emails:
+support@example.com
+sales@company.org
+
+Extracted Phone Numbers:
++1-202-555-0181
+202-555-0198
+(202) 555-0175
